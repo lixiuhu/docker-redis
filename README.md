@@ -1,2 +1,1 @@
-# docker-redis
-docker-redis
+docker images for redis
